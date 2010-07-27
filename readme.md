@@ -13,6 +13,10 @@ For more examples and to see the full functionality of the Enkoder, have a look 
 
 * Enkoder's permanent page on the web: [http://hivelogic.com/enkoder][h-e]
 * The Rails Enkoder plugin on Github: [http://github.com/dan/hivelogic-enkoder-rails][h-e-r]
+* Webby's RubyForge site: [http://webby.rubyforge.org/][Webby]
+* Webby's Github project: [http://github.com/TwP/webby][w-gh]
+* The Webby user manual: [http://webby.rubyforge.org/user-manual/][wum]
+* The filters section, in the Webby user manual: [http://webby.rubyforge.org/user-manual/#filters][wum-f]
 
 
 ## Installation:
@@ -82,3 +86,6 @@ This plugin is released under the GPL license. See [the LICENSE file][license] f
 [e-rb]: http://github.com/cboone/webby-enkoder/blob/master/enkoder.rb
 [license]: http://github.com/cboone/webby-enkoder/blob/master/LICENSE
 [Webby]: http://webby.rubyforge.org/
+[w-gh]: http://github.com/TwP/webby
+[wum-f]: http://webby.rubyforge.org/user-manual/#filters
+[wum]: http://webby.rubyforge.org/user-manual/
