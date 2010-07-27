@@ -17,7 +17,7 @@ For more examples and to see the full functionality of the Enkoder, have a look 
 * Nanoc's Mercurial project: [http://projects.stoneship.org/hg/nanoc/][n-hg]
 * Nanoc's Github mirror: [http://github.com/ddfreyne/nanoc][n-gh]
 * The Nanoc user manual: [http://nanoc.stoneship.org/docs/][n-docs]
-* The filters section, in the Nanoc user manual: [http://nanoc.stoneship.org/docs/4-basic-concepts/#filters][n-docs-f]
+* The helpers section, in the Nanoc user manual: [http://nanoc.stoneship.org/docs/4-basic-concepts/#helpers][n-docs-h]
 * The Nanoc Trac (wiki and issue tracker): [http://projects.stoneship.org/trac/nanoc][n-t]
 * Nanoc's API documentation: [http://nanoc.stoneship.org/docs/api/3.1/][n-api]
 
@@ -95,7 +95,7 @@ This plugin is released under the GPL license. See [the LICENSE file][license] f
 [license]: http://github.com/cboone/nanoc-enkoder/blob/master/LICENSE
 [Nanoc]: http://nanoc.stoneship.org/
 [n-gh]: http://github.com/ddfreyne/nanoc
-[n-docs-f]: http://nanoc.stoneship.org/docs/4-basic-concepts/#filters
+[n-docs-h]: http://nanoc.stoneship.org/docs/4-basic-concepts/#helpers
 [n-docs]: http://nanoc.stoneship.org/docs/
 [n-hg]: http://projects.stoneship.org/hg/nanoc/
 [n-t]: http://projects.stoneship.org/trac/nanoc
