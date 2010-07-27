@@ -1,8 +1,8 @@
-# [Enkoder][h-e] for [Webby][].
+# [Enkoder][h-e] for [Nanoc][].
 
 A minor, but useful, modification of [Dan Benjamin's][db] [Hivelogic Enkoder Rails plugin][h-e-r], by [Christopher Boone][hpm].
 
-The Enkoder library provides a [Webby][] helper that can be used to protect email addresses (or other information) by obfuscating them using JavaScript code. The only way to decrypt the JavaScript is to actually run it, hiding the results from email-harvesting robots while revealing them to real people.
+The Enkoder library provides a [Nanoc][] helper that can be used to protect email addresses (or other information) by obfuscating them using JavaScript code. The only way to decrypt the JavaScript is to actually run it, hiding the results from email-harvesting robots while revealing them to real people.
 
 Note: There's no guarantee here -- the only way to be completely safe is to not publish your address at all.
 
@@ -13,8 +13,9 @@ For more examples and to see the full functionality of the Enkoder, have a look 
 
 * Enkoder's permanent page on the web: [http://hivelogic.com/enkoder][h-e]
 * The Rails Enkoder plugin on Github: [http://github.com/dan/hivelogic-enkoder-rails][h-e-r]
-* Webby's RubyForge site: [http://webby.rubyforge.org/][Webby]
-* Webby's Github project: [http://github.com/TwP/webby][w-gh]
+* The Nanoc project site: [http://nanoc.stoneship.org/][Nanoc]
+* Nanoc's Mercurial project: [http://projects.stoneship.org/hg/nanoc/][n-hg]
+* Nanoc's Github mirror: [http://github.com/ddfreyne/nanoc][n-gh]
 * The Webby user manual: [http://webby.rubyforge.org/user-manual/][wum]
 * The filters section, in the Webby user manual: [http://webby.rubyforge.org/user-manual/#filters][wum-f]
 
@@ -85,7 +86,8 @@ This plugin is released under the GPL license. See [the LICENSE file][license] f
 [hpm]: http://hypsometry.com/
 [e-rb]: http://github.com/cboone/webby-enkoder/blob/master/enkoder.rb
 [license]: http://github.com/cboone/webby-enkoder/blob/master/LICENSE
-[Webby]: http://webby.rubyforge.org/
-[w-gh]: http://github.com/TwP/webby
+[Nanoc]: http://nanoc.stoneship.org/
+[n-gh]: http://github.com/ddfreyne/nanoc
 [wum-f]: http://webby.rubyforge.org/user-manual/#filters
 [wum]: http://webby.rubyforge.org/user-manual/
+[n-hg]: http://projects.stoneship.org/hg/nanoc/
