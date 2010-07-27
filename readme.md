@@ -24,7 +24,11 @@ For more examples and to see the full functionality of the Enkoder, have a look 
 
 ## Installation:
 
-Just drop [the `enkoder.rb` file][e-rb] into the /lib folder in your project.
+Just drop [the `helpers.rb` file][h-rb] and [the `helpers` folder][h-f] into the `/lib` directory in your project.
+
+Or, if you already have a `helpers.rb` file and a `helpers` folder in your project's `/lib` directory, then add [the `enkoder.rb` file][e-rb] to your `/lib/helpers` directory, and add the following to your `helpers.rb` file:
+
+``
 
 
 ## Usage:
@@ -86,7 +90,7 @@ This plugin is released under the GPL license. See [the LICENSE file][license] f
 [db]: http://hivelogic.com/
 [h-e-r]: http://github.com/dan/hivelogic-enkoder-rails
 [hpm]: http://hypsometry.com/
-[e-rb]: http://github.com/cboone/nanoc-enkoder/blob/master/helpers/enkoder.rb
+[h-rb]: http://github.com/cboone/nanoc-enkoder/blob/master/helpers.rb
 [license]: http://github.com/cboone/nanoc-enkoder/blob/master/LICENSE
 [Nanoc]: http://nanoc.stoneship.org/
 [n-gh]: http://github.com/ddfreyne/nanoc
@@ -95,3 +99,4 @@ This plugin is released under the GPL license. See [the LICENSE file][license] f
 [n-hg]: http://projects.stoneship.org/hg/nanoc/
 [n-t]: http://projects.stoneship.org/trac/nanoc
 [n-api]: http://nanoc.stoneship.org/docs/api/3.1/
+[h-f]: http://github.com/cboone/nanoc-enkoder/tree/master/helpers/
