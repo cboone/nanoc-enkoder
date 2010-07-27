@@ -28,8 +28,8 @@ Just drop [the `helpers.rb` file][h-rb] and [the `helpers` folder][h-f] into the
 
 Or, if you already have a `helpers.rb` file and a `helpers` folder in your project's `/lib` directory, then add [the `enkoder.rb` file][e-rb] to your `/lib/helpers` directory, and add the following to your `helpers.rb` file:
 
-  require 'lib/helpers/enkoder'
-  include Nanoc3::Helpers::Enkoder
+    require 'lib/helpers/enkoder'
+    include Nanoc3::Helpers::Enkoder
 
 
 ## Usage:
