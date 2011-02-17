@@ -21,6 +21,8 @@ For more examples and to see the full functionality of the Enkoder, have a look 
 * The Nanoc Trac (wiki and issue tracker): [http://projects.stoneship.org/trac/nanoc][n-t]
 * Nanoc's API documentation: [http://nanoc.stoneship.org/docs/api/3.1/][n-api]
 
+Also, you might be interested in [Arno Hautala's][] [ObfuscateEmail filter][], which takes a slightly different approach.
+
 
 ## Installation:
 
@@ -101,3 +103,5 @@ This plugin is released under the GPL license. See [the LICENSE file][license] f
 [n-t]: http://projects.stoneship.org/trac/nanoc
 [n-api]: http://nanoc.stoneship.org/docs/api/3.1/
 [h-f]: http://github.com/cboone/nanoc-enkoder/tree/master/helpers/
+[Arno Hautala's]: https://github.com/fracai
+[ObfuscateEmail filter]: https://gist.github.com/830730
